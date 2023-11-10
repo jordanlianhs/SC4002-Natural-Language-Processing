@@ -1,0 +1,9 @@
+gensim
+numpy
+pandas
+tqdm
+spacy
+scikit-learn
+seqeval
+torch
+matplotlib
